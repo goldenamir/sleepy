@@ -1,0 +1,33 @@
+# Local Obsidian state
+vault/.obsidian/workspace*.json
+vault/.obsidian/cache/
+vault/.obsidian/plugins/
+vault/.trash/
+.DS_Store
+Thumbs.db
+
+# Personal health data and identifiable discovery material
+private/
+**/health-data/
+**/raw-data/
+**/private-exports/
+**/interview-recordings/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Future development environments and generated output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+coverage/
