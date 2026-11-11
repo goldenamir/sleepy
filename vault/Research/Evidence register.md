@@ -13,7 +13,9 @@ Separate supplied context, direct statements, verified observations, and hypothe
 | E002 | Founder wants a business around their own problem | Direct user statement | [[2026-11-11 - Founder business intent]], 2026-11-11 | Exact problem and ambition unanswered |
 | E003 | Direct Bluetooth was prioritized | Historical preference in supplied context | [[2026-11-11 - ChatGPT handoff]] | Does not establish feasibility |
 | E004 | Apple Watch/Health and Sleep Cycle were proposed | Historical context | [[2026-11-11 - ChatGPT handoff]] | Actual use, exports, permissions unknown |
-| E005 | Repository cloned and vault created locally | Workspace action | [[2026-11-11]], 2026-11-11 | No app, integrations, outreach, or remote push |
+| E005 | Repository cloned and vault created locally | Workspace action | [[2026-11-11]], 2026-11-11 | Initial setup snapshot; subsequent publication is E006 |
+| E006 | Initial vault was pushed to main as 5a7db73; remote and local commit matched | Verified repository action | 2026-11-11 | No product or market validation follows from publication |
+| E007 | Founder requested a full business development plan and deferred market research execution | Direct user statement | [[2026-11-11 - Business planning scope]], 2026-11-11 | Does not approve proposed budgets, market, targets, or execution |
 
 ## Hypotheses and gaps
 
@@ -27,4 +29,4 @@ Separate supplied context, direct statements, verified observations, and hypothe
 
 ## External research
 
-No independent external research has been completed for this initial vault. Add dated primary-source references and limits when research occurs. Keep contrary findings.
+The current deliverable is planning. [[Market research brief]] is a future commission; no completed research report or market finding is being adopted as business validation here. Preliminary browsing before the scope clarification is not incorporated as a validated baseline. Add dated sources and limitations when research is commissioned, and retain contrary findings.

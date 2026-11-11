@@ -15,6 +15,8 @@ No current competitor feature, price, compatibility, or market assessment has be
 | Sleep Cycle | Proposed source and existing sleep tool | Actual export/sync, metrics, and customer value? | Unverified |
 | Current workaround | The customer's actual alternative | Doing nothing, manual comparison, spreadsheet, another tool, or asking someone? | Founder and interviews needed |
 
+Execution is a future work package under [[Market research brief]] and [[Business development plan]]. No findings from preliminary browsing are being incorporated as market validation in this planning deliverable.
+
 ## Record for each reviewed alternative
 
 - Date checked and primary-source URL or firsthand observation.

@@ -1,32 +1,42 @@
 ---
 type: task-list
-status: active
+status: planning
 created: 2026-11-11
+updated: 2026-11-11
 ---
 # Next actions
 
-These are proposed next steps, not completed research or a commitment to a product.
+Follow [[Business development plan]]. The current deliverable is planning; market research and implementation have not been started under this plan.
 
-## Understand the problem
+## Founder review and phase 0
 
-- [ ] Founder: record a recent situation, desired outcome, and workaround in [[Founder problem]].
-- [ ] Clarify side-business or larger-company ambition.
-- [ ] Choose an initial customer hypothesis from [[Business model hypotheses]].
-- [ ] Review [[Customer discovery]] and identify possible interview participants. Outreach has not been authorized or sent.
-- [ ] Capture anonymized observations in [[Evidence register]].
+- [ ] Review the proposed programme and gates.
+- [ ] Record one real episode in [[Founder problem]].
+- [ ] Choose the ambition: side business, sustainable small company, or larger startup.
+- [ ] Set weekly availability and separate cash/hour ceilings for discovery.
+- [ ] Clarify usable resources and any relevant work/ownership constraints.
+- [ ] Choose the first geography to investigate; no market is selected yet.
+- [ ] Rank customer/problem hypotheses and the assumptions in [[Risk and assumption register]].
+- [ ] Agree the stage-1 commission in [[Market research brief]] and a review date.
 
-## Validate a possible solution
+## Future phases, after the relevant decision
 
-- [ ] Research alternatives using [[Competition research]].
-- [ ] Select the smallest useful outcome in [[MVP options]].
-- [ ] Verify an authorized route through [[Data source feasibility]]. Direct Bluetooth remains the founder's preference, with feasibility unknown.
-- [ ] If device work is requested, collect necessary hardware details and agree on [[BLE feasibility spike]] steps.
-- [ ] Review the proposed gates in [[Validation plan]] with real evidence.
+- [ ] Execute customer and market research, compare alternatives, and size a reachable segment.
+- [ ] Investigate an authorized data route within a bounded feasibility exercise.
+- [ ] Select positioning and a concrete offer; implement [[Financial model plan]].
+- [ ] Test the chosen outcome with a small prototype.
+- [ ] Resolve pilot delivery, trust, and commercial-operation requirements.
+- [ ] Run a controlled paid pilot, then decide whether limited launch is justified.
+- [ ] Review longer cohorts, economics, and acquisition before expansion.
 
-## Completed workspace setup
+Detailed tasks and dependencies are in [[Execution backlog]]. These checkboxes do not authorize outreach, spending, device interactions, payment collection, or publication.
 
-- [x] Clone goldenamir/sleepy locally.
-- [x] Create an Obsidian vault with built-in navigation and templates.
-- [x] Preserve the handoff and current business intent.
-- [x] Separate hypotheses, unknowns, and recorded decisions.
-- [x] Add ignore rules for health data and credentials.
+## Completed documentation and repository milestones
+
+- [x] Clone goldenamir/sleepy and create the Obsidian vault.
+- [x] Preserve the supplied handoff and business intent.
+- [x] Publish initial vault setup to main as commit 5a7db73.
+- [x] Draft the business development plan and future research commission.
+- [x] Add the economic model specification, risk register, and execution backlog.
+
+Documentation completion is not customer or commercial validation.

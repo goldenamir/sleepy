@@ -4,7 +4,7 @@
 
 The founder wants to explore a business based on a problem they personally experience with CPAP/myAir. The supplied context describes an AirSense 11 and a possible multi-source sleep analytics product. The exact personal pain, first customer segment, willingness to pay, and business ambition remain unconfirmed.
 
-Start with vault/Home.md, vault/Business/Founder problem.md, vault/Decisions/Decision log.md, and vault/Sources/2026-11-11 - ChatGPT handoff.md.
+Start with vault/Home.md, vault/Business/Business development plan.md, vault/Business/Founder problem.md, vault/Decisions/Decision log.md, and vault/Sources/2026-11-11 - ChatGPT handoff.md.
 
 As of 2026-11-11, this repository contains a business discovery vault. No application or integrations have been implemented here. Update this status when implementation changes it.
 
@@ -34,3 +34,7 @@ As of 2026-11-11, this repository contains a business discovery vault. No applic
 - Use built-in features; ask before introducing a community-plugin dependency.
 - Log decisions with their status and evidence. Keep proposals distinct from founder-approved commitments.
 - Ideas in notes do not authorize outreach, sharing health data, publishing, or external access changes.
+
+## Current business planning scope
+
+On 2026-11-11 the founder explicitly requested a complete business development plan and clarified that market research should be future work. See vault/Sources/2026-11-11 - Business planning scope.md. Do not treat the plan or research brief as authorization to execute research, outreach, spend, or implementation now. Timing, sample sizes, gate thresholds, budgets, and market choices in the plan are proposals until agreed.

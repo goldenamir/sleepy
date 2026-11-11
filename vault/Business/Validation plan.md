@@ -1,29 +1,39 @@
 ---
-type: plan
+type: gate-checklist
 status: proposed
 created: 2026-11-11
+updated: 2026-11-11
 ---
 # Validation plan
 
-These gates are proposed for discussion, not founder-approved deadlines, statistically validated thresholds, or completed outcomes.
+The governing programme is [[Business development plan]]. This note summarizes its investment gates. All gates are pending; writing a plan has not passed any business-validation gate.
 
-| Gate | Work | Evidence to review | Decision |
+Timing, samples, numerical learning targets, budget ceilings, and acceptance criteria are proposed and need agreement before execution.
+
+| Gate | Evidence required for review | Decision owner | Current status |
 | --- | --- | --- | --- |
-| 1. Define the personal problem | Complete [[Founder problem]] | Recent real situation, workaround, frequency, impact | Select a problem to investigate |
-| 2. Check recurrence | Use [[Customer discovery]] | Independent accounts, alternatives, contrary cases | Narrow segment, revise problem, or stop |
-| 3. Check existing solutions | Complete [[Competition research]] | Comparison against the actual desired outcome | Identify an unmet need or use an existing solution |
-| 4. Verify a data path | Review [[Data source feasibility]] | Authorized route and reproducible import of a real session | Select a feasible source and scope |
-| 5. Test one useful outcome | Choose from [[MVP options]] | Whether a person can answer their original question | Improve, narrow, or abandon the solution |
-| 6. Test a concrete offer | Define deliverable, buyer, and terms | Meaningful commitment beyond enthusiasm | Assess whether a paid pilot is justified |
+| 0. Founder brief | Specific experience, audience hypotheses, ambition, capacity, resource constraints, discovery ceiling | Founder | Pending founder input |
+| 1. Market/customer case | Recurring segment-specific problem, alternatives, contrary cases, reachable opportunity, possible channel | Founder | Research planned, not executed |
+| 2. Delivery case | Appropriate authorized route, real-session import, customer setup, rights/claims/trust assessment actions | Founder with technical/specialist input | Unknown |
+| 3. Commercial offer | Defined buyer/outcome/price test, behavioral signal, economic scenarios, affordable downside | Founder | Not started |
+| 4. Outcome prototype | Task completion and usefulness, interpretation errors, friction, comparison with current method | Founder | Not started |
+| 5. Paid-pilot readiness | Narrow scope, reliable delivery, data/operating arrangements, required commercial and specialist actions resolved | Founder | Not started |
+| 6. Pilot review | Payment and continuation, repeated outcome use, support/costs, failures, participant feedback | Founder | Not started |
+| 7. Limited-launch review | Repeatable delivery, longer cohorts, acquisition evidence, capacity, cash | Founder | Not started |
+| 8. Expansion decision | Demand and economic case for additional scope, consistent with founder ambition | Founder | Not started |
 
-Business discovery and read-only technical research can inform each other. Neither a BLE scan nor favorable interview comments alone establishes a business.
+## Outcomes at every review
 
-## Technical MVP acceptance, once selected
+- **Continue:** evidence justifies the next bounded investment.
+- **Narrow:** focus on a smaller segment, outcome, data route, or service.
+- **Rework:** revise a hypothesis and allow a defined further test.
+- **Hold:** defer investment because a dependency or resource is unavailable.
+- **Stop:** evidence does not justify further investment in that hypothesis.
 
-- One real session imported reproducibly through a confirmed route.
-- Source, units, timestamps, timezone, and parser version retained.
-- A nightly view helping answer the selected customer question.
-- Missing data and uncertainty visible.
-- Cross-source comparison only once a second real source is available.
+Document the rationale, contrary evidence, spending-to-date, and next ceiling in [[Decision log]]. Update [[Risk and assumption register]] and [[Execution backlog]].
 
-Record observations in [[Evidence register]], decisions in [[Decision log]], and tasks in [[Next actions]]. Preserve negative findings and stopping reasons.
+## Technical acceptance when selected
+
+One real session must be reproducibly imported through a confirmed route, preserving source, timestamps/timezone, units, and parser version. The selected view must answer the actual customer question and expose uncertainty. Cross-source comparison requires a second real source.
+
+These delivery checks do not establish demand, willingness to pay, commercial rights, or regulatory clearance.
